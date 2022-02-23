@@ -1,0 +1,204 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Devil turned Quaker, or, The damnable, divellish, and accursed doctrines and designes of these desperate, deluded, and deluding people called Quakers their damnable opinions and horrid blasphemies touching the person and deity of our blessed Lord and Saviour Jesus Christ : especially the divelish  practices and accursed blasphemies and opinions of one James Neyler ... who blasphemously declared himself to be God and was publikely worshipped as God by his wicked disciples at Bristol, who now lye in prison ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35804</idno>
+            <idno type="STC">Wing D1222</idno>
+            <idno type="STC">ESTC R12502</idno>
+            <idno type="EEBO-CITATION">13133329</idno>
+            <idno type="OCLC">ocm 13133329</idno>
+            <idno type="VID">97871</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35804)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97871)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 414:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Devil turned Quaker, or, The damnable, divellish, and accursed doctrines and designes of these desperate, deluded, and deluding people called Quakers their damnable opinions and horrid blasphemies touching the person and deity of our blessed Lord and Saviour Jesus Christ : especially the divelish  practices and accursed blasphemies and opinions of one James Neyler ... who blasphemously declared himself to be God and was publikely worshipped as God by his wicked disciples at Bristol, who now lye in prison ...</title>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Andrews ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1656.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Advertisement on p. [16].</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Naylor, James, 1617?-1660.</term>
+               <term>Society of Friends --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:97871:1"/>
+            <p>THE DEVIL turned QUAKER: OR, The Damnable, Divelliſh, and ac<g ref="char:EOLhyphen"/>curſed Doctrines and Deſignes, of theſe deſpe<g ref="char:EOLhyphen"/>rate, deluded, and deluding people; called, QUAKERS: Their damnable Opinions, and horrid Blaſphemies; touching the Perſon and Deity of our bleſſed Lord and Saviour JESUS CHRIST.</p>
+            <p>
+               <hi>ESPECIALLY,</hi> The Diveliſh Practices, and accurſed Blaſphemies and Opinions, of one JAMES NEYLER; a Ring leader of that Sect: Who blaſphemouſly declared himſelf to be GOD, and was publikely worſhipped as God, by his wic<g ref="char:EOLhyphen"/>ked Diſciples, at BRISTOL: who now lye in Priſon, to receive the reward due unto them for the ſame.</p>
+            <q>
+               <bibl>MATTH. 24. 23.</bibl>
+               <p>There ſhall ariſe falſe Christs, and falſe Prophets, and ſhall ſhew great Signes and Wonders, but (ſaith our Saviour) be<g ref="char:EOLhyphen"/>leeve them not.</p>
+            </q>
+            <q>
+               <bibl>JUDE 17, 18.</bibl>
+               <p>Remember the words which were ſpoken before of the Apoſtles of our Lord <hi>Jeſus Chriſt;</hi> how they told you, there ſhould be Moc<g ref="char:EOLhyphen"/>kers in the last times, &amp;c.</p>
+            </q>
+            <p>London, Printed for John Andrews, at the White Lion in the Old Baily. 1656.</p>
+            <pb facs="tcp:97871:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:97871:2"/>
+            <head>The Devil turn'd Quaker.</head>
+            <epigraph>
+               <bibl>1 JOH. 4. 1, 2, 3.</bibl>
+               <q>Beloved, beleeve not every ſpirit, but try the ſpirits, whether they are of God; becauſe ma<g ref="char:EOLhyphen"/>ny falſe Prophets are gone out into the world? Hereby know we the Spirit of God, every ſpi<g ref="char:EOLhyphen"/>rit that confeſſeth that <hi>Jeſus Chriſt</hi> is come in the fleſh, is of God; and every ſpirit that con<g ref="char:EOLhyphen"/>feſſeth not that <hi>Jeſus Chriſt</hi> is come in the fleſh, is not of God. And this is that ſpirit of Antichrist, whereof you have heard that it ſhould come; and even now according it is come.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">I</seg>N the laſt dayes, ſaith the Apo<g ref="char:EOLhyphen"/>ſtle, 2 Tim. 3. Perilous times ſhall come, for men ſhall be lo<g ref="char:EOLhyphen"/>vers of their own ſelves, cove<g ref="char:EOLhyphen"/>tous, boaſters, blaſphemers, diſo<g ref="char:EOLhyphen"/>bedient to parents, unthankful, unholy, without natural affection, truce-breakers,
+<pb facs="tcp:97871:3"/>
+falſe accuſers, incontinent, fierce deſpiſers of thoſe that are good, traitors, heady, high-minded, lo<g ref="char:EOLhyphen"/>vers of pleaſures more then lovers of God, having a form of godlineſs, but denying the power there<g ref="char:EOLhyphen"/>of: From ſuch, ſaith the Apoſtle in the fifth verſe, Turn away.</p>
+            <p>And that we may the better diſcern and avoid theſe ſeducers, the Apoſtle ſets them out unto us, as well in their pre<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ences and outward actions and carriages, as by their inward principles and corruptions, as you may ſee in the ſixth, ſeventh, and eighth verſes: Of this ſort, ſaith he, are they that creep into Houſes, and lead captive ſilly Women laden with ſins, led away with divers luſts; ever learning, and never able to come to the knowledge of the truth.</p>
+            <p>In the fix firſt Verſes of this Chapter, the Apo<g ref="char:EOLhyphen"/>ſtle ſetteth forth unto us, the practiſes of theſe un<g ref="char:EOLhyphen"/>godly ſinners; and that men might be fore-arm'd againſt theſe ſeducers, he tels us at the ſixt Verſe, how we ſhould know them; Of this ſort, ſaith he, are they that creep into Houſes, and lead cap<g ref="char:EOLhyphen"/>tive ſilly Women. Now as <hi>Iames</hi> and <hi>Iambris</hi> withſtood Moſes, ſo do theſe reſiſt the Truth; Men of corrupt mindes, reproba<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e concerning the faith. But in the ninth Verſe, ſaith the Apoſtle, They ſhall proceed no further; for their folly ſhall be manifeſt unto all men.</p>
+            <p>Now according to this method of the Apoſtle,
+<pb facs="tcp:97871:3"/>
+ſhall I proceed; in ſetting forth unto you, the corrupt, horrid, and blaſphemous practices, of theſe ungodly, and irreligious ſinners of our times, known by the name of QUAKERS: Firſt, I ſhall diſcover unto you, by the Lords aſſiſtance, their horrid, and of all good Chriſtians to be abhorred, practices and opinions: In the next place, I ſhall endeavour, God willing, to ſet forth unto you, the Blaſphemies, and accurſed deluſions, of theſe monſters of men and enemies of all righteouſneſs, the QUAKERS; a generation of Vipers, of late, by the power of Satan, ſprung up amongſt us: Having done this, I ſhall by Gods aſſiſtance, give you ſome few motives and encouragements, to perſwade you, in the fear of the Lord, to beware of theſe wicked ones, whom the Lord, I hope, will ere long conſume with the breath of his noſthrils, and ſuddenly ſcatter them in his wrath, like a mighty Whirle-winde. Beware of falſe Prophets, ſaith our Saviour. And then laſtly, having diſcovered unto you the folly, and madneſs of theſe Seducers, I ſhall conclude all, in a word of advice, to all thoſe that fear the Lord, in theſe three Nations; to beware of theſe wicked and ungodly men; As the Apoſtle perſwades, in the ſecond Epiſtle of <hi>Peter</hi> and the third Chapter: Having before deſcribed ſuch a generation of wic<g ref="char:EOLhyphen"/>ked ones as they are; in the ſeventeenth verſe, he
+<pb facs="tcp:97871:4"/>
+concludes all, with heavenly advice and admoniti<g ref="char:EOLhyphen"/>on, to all that deſire to fear the Lord: Ye there<g ref="char:EOLhyphen"/>fore beloved, ſaith the Apoſtle, ſeeing you know theſe things before, beware leſt ye alſo being led away with the errour of the wicked, fall from your own ſtedfaſtneſs; but grow in grace, and in the knowledge of our Lord and Saviour JESUS CHRIST.</p>
+            <p>And now I begin with the firſt; The horrid and accurſed Principles of theſe wicked men: Firſt, they do blaſphemouſly deny God, and our Saviour Jeſus Chriſt, who is God, bleſſed for e<g ref="char:EOLhyphen"/>ver; impiouſly and blaſphemouſly ſaying, <hi>God is in them, and the Light within them, is God;</hi> when indeed there is no light at all in them, but darkneſs: As the Pſalmiſt ſaith, Their very in<g ref="char:EOLhyphen"/>ward thoughts are darkneſs, and blindneſs of minde; who being paſt feeling, as the Apoſtle ſaith, Have given themſelves over to laſciviouſ<g ref="char:EOLhyphen"/>neſs, to commit all uncleanneſs with greedineſs. Its the Devil that is in them, and not God, the Devil he deludes them, and he reigns and rules in theſe Children of diſobedience; they are of their father the Devil, and his inſtruments they are, to delude and deſtroy, both their own and other mens ſouls.</p>
+            <p>Secondly, they deny the bleſſed word of God, and deſpiſe it; tearing it in peices, and re<g ref="char:EOLhyphen"/>fuſing
+<pb facs="tcp:97871:4"/>
+to walk according to the rule of it, ſaying; <hi>They have the Word within them and that there is no need of any other Word, they have it remem<g ref="char:EOLhyphen"/>bred to them by the Spirit.</hi> And this alſo is a deluſion of the Devil; for as the Apoſtle ſaith, Tim. 3. 16. All Scripture is given by inſpiration, and is profitable for Doctrine and for Inſtruction, that the men of God may be perfect. So likewiſe 2 <hi>Pet.</hi> the firſt Chapter and laſt Verſe; Ye have have a more ſure word of Propheſie, whereunto ye do well to take heed, as unto a light that ſhi<g ref="char:EOLhyphen"/>neth in dark places.</p>
+            <p>Thirdly, they are looſe and laſcivious in their lives and converſations, deſpiſing both Miniſtry and Magiſtracy, together with all humane Socie<g ref="char:EOLhyphen"/>ty; preſumptions are they, as St. <hi>Iude</hi> ſaith in his Epiſtle; They are not afraid to ſpeak evil of Dignities, walking according to the imaginations of their own baſe hearts; the good Lord rebuke them, and undeceive them. Ungodly men they are, as St. <hi>Iude</hi> ſaith, Turning the grace of God into wantonneſs, and denying the Lord God, and our Saviour Jeſus Chriſt; leading captive ſilly Women, laden with divers luſts, going naked a<g ref="char:EOLhyphen"/>bout the ſtreets, in a moſt odious and beaſtlike manner, belching forth blaſphemy againſt the great God of heaven, ſaying, <hi>They are comman<g ref="char:EOLhyphen"/>ded to do ſo.</hi> Wels they are, without water, ra<g ref="char:EOLhyphen"/>ging
+<pb facs="tcp:97871:5"/>
+waves of the Sea, foaming out their ow<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſhame; trees that are twice dead, pluckt up by the roots: Whoſe end, as St. <hi>Paul</hi> ſaith, is to be burned.</p>
+            <p>Likewiſe, they caſt off the ordinances of Jeſus Chriſt, accounting them as needleſs and unneceſ<g ref="char:EOLhyphen"/>ſary: <hi>They have no need,</hi> they ſay, <hi>of the Word of God, nor no need of Prayer;</hi> they are above theſe things, above Ordinances; yea, I may tru<g ref="char:EOLhyphen"/>ly ſay, they are paſt grace: For, ſay they, <hi>We may live as we list.</hi> They have no ſin in them at all, but whatſoever they do is good, being accor<g ref="char:EOLhyphen"/>ding to the light within them, and the motions of the ſpirit, with which they are poſſeſt: But mi<g ref="char:EOLhyphen"/>ſerable wretches as they are, they deceive their own ſouls<g ref="char:punc">▪</g> as St. <hi>Iohn</hi> ſaith, in the firſt Chapter of his firſt Epiſtle, and the laſt Verſe. If the ſpirit within them bid them do any thing, though it be never ſo wicked, they ſay, it is God: The Lord anoint their eys with the eye-ſalve of his ſpirit<g ref="char:punc">▪</g> and caſt out of them this foul unclean ſpirit, with which they are poſſeſt; that they may ſee the evil of their ways, and abhor themſelves, and repent of their Blaſphemies; that ſo the Nation may be no longer deluded by them.</p>
+            <p>Secondly, for the practices of theſe wicked men, how foul are they? and what a height of wickedneſs and uncleanneſs is there amongſt the
+<pb facs="tcp:97871:5"/>
+moſt of them? What roarings and howlings do they keep when they meet together? alrighting even the Beaſts that hear them, as if God were ſerved by their roaring and howling like Dogs? What Witchery and Sorcery is there amongſt many of them, ſo that thoſe that have but come to ſee them, have been bewitched by them, to fol<g ref="char:EOLhyphen"/>low their pernicious wayes, and ſo have brought everlaſting deſtruction upon themſelves. As one near to <hi>Newbery</hi> of late, who ran naked into the Congregation upon the Lords Day; and after, gi<g ref="char:EOLhyphen"/>ving away all his eſtate which was worth two or three hundred a year, he ran away in this condi<g ref="char:EOLhyphen"/>tion from his wife and children. Likewiſe, one near <hi>Durham,</hi> who had been a great Profeſſor of Religion for a long time, and a man of good parts, but ſomething given to Novelties; going to hear theſe people cald Quakers, was preſently bewitched by them, that he ran up and down the Town in a confuſed manner, crying out very blaſphemouſly; <hi>I am the Way, the Truth, and the Life:</hi> and thus he continued for the ſpace of two or three moneths, ſome<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>imes running naked about the ſtree<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s in the night, being as he ſaid, ſo commanded to do, by a voice within him; which voice was the voice of the Devil, with whom he was really poſſeſt, as he himſelf hath ſince confeſ<g ref="char:EOLhyphen"/>ſed, it having pleaſed God ſince, to bring him out of
+<pb facs="tcp:97871:6"/>
+the ſnares of the Devil, after a moſt miraculous manner, that others might ſee and take notice, and abhor thoſe wicked ways. The Devil having poſſeſſion of him, he was ſometimes caried forth ſo violently by the power of Satan, to act and utter ſuch ſtrange things, that he ſoon became the chief among them; to the great grief and ſorrow of all his friends, who perſwaded him with tears to deſiſt from thoſe wicked and pernicious ways; but all in vain, for he was ſtill poſſeſt with this blaſphemous opinion, That God was in him, and that what ever he did was from God; when it was onely from the power and deluſion the Devil, as he himſelf ſince, hath to the glory of God, confeſſed.</p>
+            <p>This man being in his bed, the voice within him, ſpake unto him as follweth: That he was CHRIST, and came to live and abide in him; and that he ſhould have two Angels always to attend upon him. At which, there appeared two in the likeneſs of Sparrows, comming down the Chimney, which came and ſat upon the wall by his beds-ſide, which he conceited were the two Angels ſpoken of before. After which, the voice within him began to ſpeak again, in a moſt wick<g ref="char:EOLhyphen"/>ed manner, ſaying, That he was Chriſt, and was come to dwell in him: all which he beleeved. Then upon a ſudden was he carried, by a more
+<pb facs="tcp:97871:6"/>
+then ordinary force, from his bed, and his hand conveyed to a knife which lay in the room<hi>:</hi> Ha<g ref="char:EOLhyphen"/>ving this knife in his hand, the point of it was preſently ſet to his throat, and a voyce heard, ſay<g ref="char:EOLhyphen"/>ing, Open that I may enter in. At which it plea<g ref="char:EOLhyphen"/>ſed God to ſmite this mans heart, and by his Al<g ref="char:EOLhyphen"/>mighty power to hold back his hand from cutting his own throat therewith; and then through the mercy of the Lord to him, he ſaw how he was de<g ref="char:EOLhyphen"/>luded by the Devil, and ſo flung away the knife, and ever after forſook and abhorred theſe wicked and accurſed ways, to the great joy and rejoyeing of all his friends. The truth of this Relation was teſtified under his own hand, together with the hands of the Mayor and Miniſter of the Town, with ſeveral others.</p>
+            <p>The next I come to ſpeak of, is one <hi>Iames Parnel:</hi> Who moſt blaſphemouſly ſaid he was Chriſt and that they ſhould ſee he could do mira<g ref="char:EOLhyphen"/>cles. And then the Devil deluded him to faſt forty days, and forty nights; which he ſaid he would do, that ſo they might ſee that he was God. He being in priſon at <hi>Colcheſter</hi> for his blaſphe<g ref="char:EOLhyphen"/>my, there began his Faſt, and for ſeveral days he would eat nothing, and ſeemed very pleaſant: but being narrowly watched that he might eat nothing privately, and ſo delude the people, he in leſs then a fortnights ſpace began to deſire food, which was
+<pb facs="tcp:97871:7"/>
+dayly offered him before, if he would have eaten it; and then being a weary of his faſting, he be<g ref="char:EOLhyphen"/>gan to eat, but to little purpoſe; for what he eat, went through his body as faſt as he eat it, and then when he would have eaten, it gave him no ſuſtenance; and ſo in two or three days after, he died in a moſt miſerable manner, being guilty of his own death.</p>
+            <p>Like unto him is now one <hi>Iames Nailer,</hi> now in priſon at <hi>Briſtol</hi> for the like blaſphemies. This man being a principal man amongſt the Quakers, was looked upon by them as their God, all of them owning and receiving for truth what <hi>Iames Nailer</hi> ſpake, whoſe blaſpemous opinions are very well known by moſt men. This <hi>Iames Nailer</hi> taking upon him to be Chriſt, and by his accurſed ſect and followers was ſo owned and looked upon, yea, and worſhipped as Chriſt. This blaſphemous fellow, did in September laſt paſt, ride through the City of <hi>Briſtol</hi> on Horſe-back, conducted by others of this wicked ſect, who went bare-headed along by his Horſe ſide; others ſtrowing the way as they went, blaſphe<g ref="char:EOLhyphen"/>mouſly cried out, <hi>Hoſanna, Hoſanna in the high<g ref="char:EOLhyphen"/>eſt, Holy, Holy, the Lord, the Holy One.</hi> Ha<g ref="char:EOLhyphen"/>ving paſſed quite through the City in this blaſphe<g ref="char:EOLhyphen"/>mous manner, he took up his Inne, where his wicked Diſciples waſhed his feet, and the wo<g ref="char:EOLhyphen"/>men
+<pb facs="tcp:97871:7"/>
+wiped them with the ha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s of their heads. For which accurſed, and abominably blaſphemous practiſe, he was after committed to priſon there, and is now ſent for up to <hi>London</hi> by the Parlia<g ref="char:EOLhyphen"/>ment, to anſwer for the ſame, who I hope will give him the reward of his iniquity. Oh! that wretched ſinfull men ſhould dare thus to blaſ<g ref="char:EOLhyphen"/>pheme the living God! Children of the Devil they are, and Enemies of all Righteouſneſs; who have forſaken the right way, and are turned after vanities.</p>
+            <p>By the Law of <hi>Moſes</hi> Blaſphemers ought to be ſtoned to death, as it is recorded in the 24 of <hi>Leviticus,</hi> verſ. 16. He that blaſphemeth the Name of the Lord, ſhall ſurely be put to death, and all the Congregation ſhall ſtone him. This is the Law of God delivered by <hi>Moſes:</hi> God will not have ſuch wicked wretches, that ſhall dare to blaſpheme his holy Name, to go unpuniſhed: and truly, men ought not to paſs it over unpuniſhed; hee is accounted a very bad ſervant, that ſhall hear his maſter abuſed, and take no notice of it; the Name of God is abuſed, and his Honour and Majeſty is abuſed by theſe wicked wreches, and ſhall they not be puniſhed for this! ſhall one man be puniſhed for ſpeaking ill of another, and ſhall not wicked men be puniſhed for blaſpheming the great God of heaven and earth! O I tremble
+<pb facs="tcp:97871:8"/>
+to thinke what will become of theſe accurſed wretches, when they ſhall come to appear before the Lord, to anſwer for all their wicked blaſphe<g ref="char:EOLhyphen"/>mies. Certainly this is an iniquity, as <hi>Iob</hi> ſaith, <hi>Iob</hi> 31, 10<g ref="char:punc">▪</g> to be puniſhed by the Judge. And if, as St. <hi>Paul</hi> ſairh, <hi>Rom.</hi> 13. 4 the Magiſtrate beareth not the ſword in vain, but is the Miniſter of God to execute wrath upon him that doth evil; then certainly, if he let ſuch blaſphemies as theſe go unpuniſhed, he beareth his ſword in vain, and is, in ſtead of being a terrour unto the evil doers, an incouragement of them in their ſins, and there<g ref="char:EOLhyphen"/>by bring upon themſelves the guilt of other mens ſins.</p>
+            <p>Now then Chriſtians, I hope theſe things will affright you from theſe ways, and cauſe in you an abhorring both of the opinions and practiſes of theſe wicked ones: O that you would tremble to think of the ſad condition of theſe men, what will become of them, if they repent not, Hell fire and brimſtone ſhall be their portion for ever. O Chri<g ref="char:EOLhyphen"/>ſtians, I beſeech you for the Lords ſake, read the Epiſtle of St. <hi>Iude</hi> and likewiſe the ſecond Chap<g ref="char:EOLhyphen"/>ter of the ſecond Epiſtle of St. <hi>Peter,</hi> and conſider what is there ſaid; compare what is there written, with our times, ſee how the opinions and practi<g ref="char:EOLhyphen"/>ſes of men in our days agree with theſe the Apo<g ref="char:EOLhyphen"/>ſtles there ſpeak of: There were falſe Prophets,
+<pb facs="tcp:97871:8"/>
+ſaith the Apoſtle, even as there ſhall be falſe Tea<g ref="char:EOLhyphen"/>chers, who ſhall bring in damnable Hereſies, de<g ref="char:EOLhyphen"/>nying the Lord that bought them, and bringing upon themſelves ſwift deſtruction, If ever there was a time when theſe things were, certainly it is now: O how do falſe Prophets and Teachers a<g ref="char:EOLhyphen"/>bound and increaſe! O what horrid blaſphemies and accurſed opinions are there broached and practiſed among us! The Lord caſt out from a<g ref="char:EOLhyphen"/>mong us that foul ſpirit of errour and blaſphemy that ſo much abounds; give a check, O Lord, to Satan, and ſtop the current of blaſphemy, for thy own Names ſake. O Lord ariſe, and beat down the power of Satan, and let him no longer reign in the hearts of diſobedient and gain ſaying people. O do thou turn them, O Lord, from ſin and Sa<g ref="char:EOLhyphen"/>tan, unto thee our God; and eſtabliſh righteouſ<g ref="char:EOLhyphen"/>neſs and truth, and increaſe the Kingdome of thy dear ſon all the world over. O all ye Quakers, Shakers, and Ranters, what ever you are, that blaſpheme the Name of God, and deſpiſe his Word, repent of your blaſphemies, and turn to the Lord, who will have mercy upon you; leſt if you perſiſt, the wrath of God be poured forth upon you to deſtroy you.</p>
+            <p>Now then conſider all of you, and every one of you, and every one that reads or hears this; Conſider, I ſay, and ſee the dreadful judgements
+<pb facs="tcp:97871:9"/>
+of God againſt ſuch ſinners as you are, and repent of your wickedneſs, and abhorre it; break off your ſins by repentance, and look up<g ref="char:EOLhyphen"/>on Jeſus Chriſt, whom you have pe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rced, and whoſe bloud you have trampled upon, and deſpi<g ref="char:EOLhyphen"/>ſed by your blaſphemies.</p>
+            <p>Which that you may unfeignedly do, the Lord in mercy ſend out his light and truth, and ſcatter all theſe miſts and fogs of errour hereſie and bla<g ref="char:EOLhyphen"/>ſphemy, that now ſo much abounds; and bring down the power of Satan, and ſet up the King<g ref="char:EOLhyphen"/>dome of Chriſt; and ſettle and eſtabliſh righte<g ref="char:EOLhyphen"/>ouſneſs and truth in the midſt of us; and make us a praiſe, and the glory of the whole world: Even ſo come Lord Jeſus, Come quickly.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>There are five other ve<g ref="char:EOLhyphen"/>ry good Chriſtian Books printed, which will by Gods aſſiſtance, direct thee in the way to Hea<g ref="char:EOLhyphen"/>ven, and preſerve and eſtabliſh thee in the truth. One is called, <hi>The Plain mans path to Hea<g ref="char:EOLhyphen"/>ven;</hi> a ſecond, <hi>Doomſ day at hand;</hi> a third, <hi>The charitable Chriſtian;</hi> a fourth, <hi>The Devils Diſeaſe;</hi> a fifth, <hi>The Black Book of Conſcience.</hi> All very neceſſary and ſeaſonable for theſe times, and but of two pence price: Sold by John An<g ref="char:EOLhyphen"/>drews at the white Lion in the Old Baily.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
